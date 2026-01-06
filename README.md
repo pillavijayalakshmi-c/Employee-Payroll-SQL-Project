@@ -18,3 +18,10 @@ This project analyzes employee salary distribution and department performance us
 
 ## Tools
 - MySQL
+
+ ## Business Questions Answered
+- Average salary by department
+- Highest paid employees
+- Department-wise payroll cost
+- Employees earning above department average
+
