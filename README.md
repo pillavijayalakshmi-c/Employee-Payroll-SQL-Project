@@ -1,27 +1,31 @@
-# Employee Payroll & Performance Analysis using SQL
+# SQL Employee Management System
 
-## Project Overview
-This project analyzes employee salary distribution and department performance using core SQL concepts.
+## 📌 Project Overview
+This project demonstrates core SQL concepts using an Employee Management System.
 
-## SQL Concepts Used
-- SQL Commands
+## 🛠️ Concepts Used
+- CREATE TABLE
+- PRIMARY KEY & FOREIGN KEY
+- INSERT statements
 - WHERE clause
-- Aggregate functions
-- GROUP BY & HAVING
-- Subqueries
+- GROUP BY & aggregate functions
 - JOINS
+- SUBQUERIES
 - VIEWS
 
-## Tables
-- employees
-- departments
+## 📊 Tables
+- Departments
+- Employees
 
-## Tools
-- MySQL
+## 📈 Queries Included
+- Employees earning more than a specific salary
+- Total and average salary calculations
+- Department-wise salary analysis
+- High performance employees
+- Employees earning above average salary
 
- ## Business Questions Answered
-- Average salary by department
-- Highest paid employees
-- Department-wise payroll cost
-- Employees earning above department average
+## 🧑‍💻 Tools Used
+- SQL (MySQL / PostgreSQL compatible)
 
+## 📎 Author
+**Vijaya Lakshmi**
